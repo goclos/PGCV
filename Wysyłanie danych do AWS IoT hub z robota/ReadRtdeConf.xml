@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rtde_config>
+	<recipe key="out">
+		<field name="timestamp" type="DOUBLE"/>
+		<field name="robot_mode" type="INT32"/>
+		<field name="safety_mode" type="INT32"/>
+		<field name="runtime_state" type="UINT32"/>
+		<field name="robot_status_bits" type="UINT32"/>
+		<field name="actual_robot_voltage" type="DOUBLE"/>
+		<field name="actual_main_voltage" type="DOUBLE"/>
+		<field name="actual_robot_current" type="DOUBLE"/>	
+		<field name="safety_status_bits" type="UINT32"/>
+		<field name="actual_execution_time" type="DOUBLE"/>
+		<field name="joint_mode" type="VECTOR6INT32"/>
+		<field name="actual_TCP_force" type="VECTOR6D"/>
+		<field name="actual_joint_voltage" type="VECTOR6D"/>
+		<!-- <field name="safety_status" type="UINT32"/>  Zakomentowane bo dostepne jest dopiero od wersji 3.10.0/5.4.0-->
+	</recipe>
+</rtde_config>
