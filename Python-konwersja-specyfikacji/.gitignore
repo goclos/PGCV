@@ -1,0 +1,6 @@
+*.exe
+*.ico
+*.xcf
+*.crx
+output/
+__pycache__/
