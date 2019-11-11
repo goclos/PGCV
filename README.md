@@ -1,2 +1,2 @@
 "# PGCV" 
-Przykładowe skrypty do CV
+Example scripts

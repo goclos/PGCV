@@ -1,1 +1,1 @@
-Zadania wykonywane ze strony https://projecteuler.net/
+Exercises from  https://projecteuler.net/
