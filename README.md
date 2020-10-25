@@ -1,1 +1,1 @@
-"# Various Sample scripts" 
+# Various Sample scripts
